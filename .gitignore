@@ -2,3 +2,5 @@
 .cursorrules
 CONVENTIONS.md
 GEMINI.md
+*.aux
+*.log
