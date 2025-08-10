@@ -1,5 +1,7 @@
 A (mostly) meticulous LaTeX recreation of Alan Turing's 'Computing Machinery and Intelligence' (Mind, 1950).
 
+[PDF](./alan_turing_mind_1950.pdf) | [LaTeX](./alan_turing_mind_1950.tex) | [Text](./alan_turing_mind_1950.txt)
+
 # MIND
 
 #### A QUARTERLY REVIEW
