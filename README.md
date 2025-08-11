@@ -1031,6 +1031,16 @@ Changes   = Mutations \\
 Natural selection = Judgment of the experimenter \\
 $$
 
+---
+
+$$
+\begin{aligned}
+\text{Structure of the child machine} &= \text{hereditary material} \\
+\text{Changes} &= \text{Mutations} \\
+\text{Natural selection} &= \text{Judgment of the experimenter}
+\end{aligned}
+$$
+
 One may hope, however, that this process will be more expeditious than
 evolution. The survival of the fittest is a slow method for measuring
 advantages. The experimenter, by the exercise of intelligence, should be
