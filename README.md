@@ -1027,8 +1027,8 @@ identifications
 
 $$
 \begin{aligned}
-\text{Structure of the child machine} &= \text{hereditary material} \\
-\text{Changes} &= \text{Mutations} \\
+\text{Structure of the child machine} &= \text{Hereditary material} \\
+\text{Changes of the child machine} &= \text{Mutations} \\
 \text{Natural selection} &= \text{Judgment of the experimenter}
 \end{aligned}
 $$
