@@ -1025,13 +1025,11 @@ learns. One can then try another and see if it is better or worse. There
 is an obvious connection between this process and evolution, by the
 identifications
 
----
-
+$$
 Structure of the child machine = hereditary material
 Changes   = Mutations
 Natural selection = Judgment of the experimenter
-
----
+$$
 
 One may hope, however, that this process will be more expeditious than
 evolution. The survival of the fittest is a slow method for measuring
