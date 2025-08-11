@@ -1,4 +1,4 @@
-A (mostly) meticulous LaTeX recreation of Alan Turing's 'Computing Machinery and Intelligence' (Mind, 1950).
+A faithful LaTeX recreation of Alan Turing's 'Computing Machinery and Intelligence' (Mind, 1950).
 
 [PDF](./alan_turing_mind_1950.pdf) | [LaTeX](./alan_turing_mind_1950.tex) | [Text](./alan_turing_mind_1950.txt)
 
@@ -316,29 +316,24 @@ second, but may be stopped by a lever which can be operated from
 outside; in addition a lamp is to light in one of the positions of the
 wheel. This machine could be described abstractly as follows. The
 internal state of the machine (which is described by the position of the
-wheel) may be q$_1$, q$_2$ or q$_3$. There is an input signal i$_0$, or
-i$_1$ (position of lever). The internal state at any moment is
+wheel) may be $q_1$, $q_2$ or $q_3$. There is an input signal $i_0$, or
+$i_1$ (position of lever). The internal state at any moment is
 determined by the last state and input signal according to the table
 
----
-
-                           **Last State**
-                             **q$_1$**      **q$_2$**   **q$_3$**
-
-**Input** **i$_0$** q$_2$ q$_3$ q$_1$
-**i$_1$** q$_1$ q$_2$ q$_3$
-
----
+|           |       |       |       |                |
+| --------- | ----- | ----- | ----- | -------------- |
+|           |       |       |       | **Last State** |
+|           |       | $q_1$ | $q_2$ | $q_3$          |
+| **Input** | $i_0$ | $q_2$ | $q_3$ | $q_1$          |
+|           | $i_1$ | $q_1$ | $q_2$ | $q_3$          |
 
 The output signals, the only externally visible indication of the
 internal state (the light) are described by the table
 
----
-
-**State** **q$_1$** **q$_2$** **q$_3$**
-**Output** **o$_0$** **o$_0$** **o$_1$**
-
----
+|            |       |       |       |
+| ---------- | ----- | ----- | ----- |
+| **State**  | $q_1$ | $q_2$ | $q_3$ |
+| **Output** | $o_0$ | $o_0$ | $o_1$ |
 
 This example is typical of discrete state machines. They can be
 described by such tables provided they have only a finite number of
