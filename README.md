@@ -12,7 +12,7 @@ A faithful LaTeX recreation of Alan Turing's 'Computing Machinery and Intelligen
 
 ---
 
-### I.---COMPUTING MACHINERY AND INTELLIGENCE
+### I.—COMPUTING MACHINERY AND INTELLIGENCE
 
 **BY A. M. TURING**
 
@@ -981,7 +981,7 @@ digits. I incline to the lower values and believe that only a very small
 fraction is used for the higher types of thinking. Most of it is
 probably used for the retention of visual impressions. I should be
 surprised if more than $10^9$ was required for satisfactory playing of
-the imitation game, at any rate against a blind man. (*Note*The capacity
+the imitation game, at any rate against a blind man. (_Note_—The capacity
 of the _Encyclopaedia Britannica_, 11th edition, is $2 \times 10^9$) A
 storage capacity of $10^9$ would be a very practicable possibility even
 by present techniques. It is probably not necessary to increase the
