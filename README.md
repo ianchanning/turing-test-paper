@@ -1026,14 +1026,6 @@ is an obvious connection between this process and evolution, by the
 identifications
 
 $$
-Structure of the child machine = hereditary material \\
-Changes   = Mutations \\
-Natural selection = Judgment of the experimenter \\
-$$
-
----
-
-$$
 \begin{aligned}
 \text{Structure of the child machine} &= \text{hereditary material} \\
 \text{Changes} &= \text{Mutations} \\
