@@ -1,6 +1,8 @@
 A faithful LaTeX recreation of Alan Turing's 'Computing Machinery and Intelligence' (Mind, 1950).
 
-[PDF](./alan_turing_mind_1950.pdf) | [LaTeX](./alan_turing_mind_1950.tex) | [Text](./alan_turing_mind_1950.txt)
+A secondary benefit is that the Markdown can be linked to for section references.
+
+[PDF](./alan_turing_mind_1950.pdf) | [LaTeX](./alan_turing_mind_1950.tex) | [Text](./alan_turing_mind_1950.txt) | [Markdown](./README.md)
 
 <img width="751" height="956" alt="turing_test_paper_screenshot" src="https://github.com/user-attachments/assets/193fd04b-908d-4a98-b566-349e42d85444" />
 
